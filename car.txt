@@ -6,7 +6,6 @@ Mercedes S500
 Kia Optima
 Mazda 3
 Subaru WRX STI
-<<<<<<< HEAD
 toyota
 Jeep
 Honda
