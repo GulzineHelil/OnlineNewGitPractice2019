@@ -5,4 +5,5 @@ Lexus GX470
 Mercedes S500
 Kia Optima
 Mazda 3
-Toyota
+Subaru WRX STI
+toyota
