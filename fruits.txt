@@ -2,4 +2,3 @@ orange
 mango
 kiwi
 orange
-apple
