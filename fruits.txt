@@ -2,6 +2,3 @@ orange
 mango
 kiwi
 orange
-Mercedes S500
-Kia Optima
-Mazda 3
