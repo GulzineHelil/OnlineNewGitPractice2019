@@ -6,6 +6,8 @@ public class SecondClass {
         System.out.println(myName);
         System.out.println("this is another line");
           System.out.println("this is another line");
+        System.out.println("this is another line");
+        
     }
 
 
