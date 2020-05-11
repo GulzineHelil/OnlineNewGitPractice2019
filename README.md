@@ -1,3 +1,3 @@
-read this before you leave
-`can you see the background color is different`
+read this before you learn
+`never come back here agian if you learn`
 
